@@ -1,19 +1,13 @@
 HTML 5 :
-- Belajar property 
-
+- Property dan value
 
 Javascript:
-- Belajar Property
+- Belajar Property dan value
 - ES6
-
-
-Angular : 
+Framework
+ *Angular : 
 - Belajar docs
-- 
-
-Node.js :
-- Belajar docs node
-
-
-react js :
--
+ *Node.js :
+ - Belajar docs
+ *React.js :
+ - Belajar docs
