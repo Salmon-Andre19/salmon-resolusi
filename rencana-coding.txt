@@ -1,0 +1,11 @@
+HTML 5 :
+- Belajar property 
+
+
+Javascript:
+- Belajar Property
+- ES6
+
+
+Angular : 
+- Belajar docs
