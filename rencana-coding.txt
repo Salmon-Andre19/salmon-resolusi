@@ -9,7 +9,11 @@ Javascript:
 
 Angular : 
 - Belajar docs
-
+- 
 
 Node.js :
+- Belajar docs node
+
+
+react js :
 -
