@@ -4,7 +4,7 @@ HTML 5 :
 
 Javascript:
 - Belajar Property
-
+- ES6
 
 
 Angular : 
